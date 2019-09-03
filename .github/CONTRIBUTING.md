@@ -55,7 +55,9 @@ to ensure you aren't duplicating anyone's work. Then, do the following:
 
 ## Code style
 
-Just make sure `yarn lint` passes!
+Please follow the coding style conventions detailed below:
+
+- Just ensure that `yarn lint` always passes!
 
 [1]: mailto:ty@greylocklabs.com
 [2]: https://github.com/greylocklabs/stylelint-config-styled-components/issues/new
